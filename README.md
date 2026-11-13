@@ -152,7 +152,7 @@ The business process was modeled using a **UML Activity Diagram** created with *
 - [View Business Process Diagram (PDF)](phase_1/docs/business_process/business_process_diagram.pdf)
 
 ### Business Process Explanation
-[View Business Process Explanation (PDF)](phase_1/docs/business_process/business_process_explanation.pdf)
+[View Business Process Explanation (PDF)](phase_1/docs/business_process/Business_process_explanation.pdf)
 
 
 
